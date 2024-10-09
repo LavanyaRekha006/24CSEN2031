@@ -23,3 +23,10 @@ else
 }
 return 0;
 }
+Enter an integer number:48
+
+The given number= 48
+ The reverse value =84
+48 is not Palindrome
+
+=== Code Execution Successful ===
