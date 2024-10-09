@@ -22,3 +22,9 @@ else
 }
 return 0;
 }
+Enter an integer number:569
+
+The given number= 569
+569 is not Armstrong
+
+=== Code Execution Successful ===
